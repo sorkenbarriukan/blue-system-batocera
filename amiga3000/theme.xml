@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./art/system.png</path>
+			<color>FFFFFF</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.88 0.96</pos>
+	<size>0.21 0.06</size>
+		</image>
+	</view>
+	
+	
+
+
+	<view name="system, basic, detailed, grid, video">
+                <image name="background" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+                   <path>./art/fondo.png</path>
+                </image>
+	</view>
+
+</theme>
